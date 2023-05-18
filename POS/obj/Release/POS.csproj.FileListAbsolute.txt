@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\bin\Release\pos_config.json
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\bin\Release\POS.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\bin\Release\DCL.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\bin\Release\log4net.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\bin\Release\Newtonsoft.Json.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\bin\Release\SOLVEN.Common.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\bin\Release\log4net.xml
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\obj\Release\POS.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\obj\Release\POS.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\obj\Release\POS.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\POS\obj\Release\POS.dll
