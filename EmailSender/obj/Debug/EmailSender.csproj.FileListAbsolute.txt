@@ -1,0 +1,6 @@
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\EmailSender\bin\Debug\EmailSender.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\EmailSender\obj\Debug\EmailSender.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\EmailSender\obj\Debug\EmailSender.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\EmailSender\obj\Debug\EmailSender.pdb
