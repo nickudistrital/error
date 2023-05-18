@@ -1,0 +1,9 @@
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\Common\SOLVEN.Common\bin\Debug\SOLVEN.Common.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\Common\SOLVEN.Common\bin\Debug\SOLVEN.Common.pdb
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\Common\SOLVEN.Common\bin\Debug\Abrantix.MDB2Serial.Common.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\Common\SOLVEN.Common\bin\Debug\Abrantix.MDB2Serial.Common.pdb
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\Common\SOLVEN.Common\obj\Debug\SOLVEN.Common.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\Common\SOLVEN.Common\obj\Debug\SOLVEN.Common.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\Common\SOLVEN.Common\obj\Debug\SOLVEN.Common.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\Common\SOLVEN.Common\obj\Debug\SOLVEN.Common.dll
+C:\Users\micha\OneDrive\Documents\ADP\RootStack\Proyectos\Solve\solven02\Common\SOLVEN.Common\obj\Debug\SOLVEN.Common.pdb
