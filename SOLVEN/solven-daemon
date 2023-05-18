@@ -1,0 +1,35 @@
+﻿#!/bin/sh
+#/etc/init.d/solven-daemon
+
+APP_NAME="solven.sh"
+APP_USER=pi
+APP_PATH="/home/${APP_USER}/SOLVEN"
+
+
+case "$1" in
+  start)
+
+
+        echo "Starting $APP_NAME"
+
+        start-stop-daemon --start \
+                          --background \
+                          --make-pidfile \
+                          --pidfile /var/run/$APP_NAME.pid \
+                          --chuid $APP_USER \
+                          --exec "$APP_PATH/$APP_NAME"
+    ;;
+  stop)
+
+        echo "Stopping $APP_NAME"
+                start-stop-daemon -o  --stop \
+                --pidfile /var/run/$APP_NAME.pid
+
+    ;;
+  *)
+    echo "Usage: /etc/init.d/solven-daemon {start|stop}"
+    exit 1
+    ;;
+esac
+
+exit 0
